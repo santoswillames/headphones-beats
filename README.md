@@ -8,4 +8,6 @@
 - Aplicando a metodologia de Mobile First.
 - Compatível com todos os dispositivos móveis e com uma interface de usuário bonita e agradável.
 
+<a href="https://headphonesbeats.netlify.app/"> Veja o projeto final </a>
+
 ![](/preview.png)
